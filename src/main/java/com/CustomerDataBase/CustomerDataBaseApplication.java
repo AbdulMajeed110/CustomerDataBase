@@ -1,0 +1,13 @@
+package com.CustomerDataBase;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CustomerDataBaseApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CustomerDataBaseApplication.class, args);
+	}
+
+}
